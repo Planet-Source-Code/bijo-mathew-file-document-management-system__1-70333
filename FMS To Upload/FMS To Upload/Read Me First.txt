@@ -1,0 +1,12 @@
+hi guys
+i am back with a new project, must check project!!! 
+
+!!! you need Adobe PDF write to convert scanned files to PDF (works without that too but you need to comment the PDF conversion part of the code in module "modDoc2Pdf")!!!
+This time its a File Management System / Doc Management System, 
+as usual industrial standard solution, but pls note you need Adobe PDF write to convert 
+scanned files to PDF
+
+
+You can assign rights to files like View,Print,Copy, Edit etc
+
+Read the help file for more details
