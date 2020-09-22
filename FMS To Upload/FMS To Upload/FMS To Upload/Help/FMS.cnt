@@ -1,0 +1,31 @@
+:Base FMS.hlp
+:Title FMS Help
+1 System Requirements=1
+1 Introduction to File Managment System=2
+1 Login to FMS=3
+1 Files=4
+1 File Options
+2 Upload File=5
+2 Download for Editing=6
+2 View=7
+2 Delete=8
+2 Copy File=9
+2 Lock / Unlock File=10
+2 Properties=11
+2 Version=12
+1 Search Files=13
+1 General Options
+2 Change Password=14
+2 Default User Rights=15
+2 Log Off=16
+2 Sort Files=17
+1 Administrator Options
+2 User Management=18
+2 Department Management=19
+2 Purge / Re-Store Files=20
+2 Check License Status=21
+2 Force Logout=22
+1 Licensing
+1 Licensing=23
+1 Ordering
+1 Ordering=24
